@@ -5,7 +5,7 @@
 
 Welcome to the **Time Series Forecasting** project! This repository provides a high-level Python implementation to predict future trends using historical data—perfect for forecasting stock prices, sales, or any time-dependent dataset.
 
-![Time Series Forecasting](https://via.placeholder.com/800x200.png?text=Time+Series+Forecasting)
+![Time Series Forecasting]([https://via.placeholder.com/800x200.png?text=Time+Series+Forecasting](https://images.unsplash.com/photo-1549421263-6064833b071b?q=80&w=1665&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 ---
 
@@ -20,9 +20,7 @@ Welcome to the **Time Series Forecasting** project! This repository provides a h
    - [Run the Forecasting Script](#run-the-forecasting-script)
    - [Customize Forecasting Parameters](#customize-forecasting-parameters)
 6. [Creative Journey](#creative-journey)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+
 
 ---
 
